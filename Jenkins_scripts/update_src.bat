@@ -1,1 +1,1 @@
-Don't expect anything from anyone
+Don't expect anything from anyone and anytime. Be strong
