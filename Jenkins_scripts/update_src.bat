@@ -1,5 +1,4 @@
-git add git commit git diff git stash .gitignore
-Git sees every file in your working copy as one of three things:
+
 
 tracked - a file which has been previously staged or committed;
 untracked - a file which has not been staged or committed; or
