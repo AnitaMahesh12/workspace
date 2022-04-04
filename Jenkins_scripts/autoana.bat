@@ -1,3 +1,3 @@
 Hello, good morning
 
-Good afternoon
+Added jenkins_scripts folder in the .gitignore
